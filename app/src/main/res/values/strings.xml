@@ -9,9 +9,11 @@
     <string name="LogOut">Cerrar Sesión</string>
     <string name="login_exito">Sesión iniciada</string>
     <string name="title_home">Inicio</string>
+    <string name="text_home">Fragment Home</string>
     <string name="title_dashboard">Medio</string>
+    <string name="text_dashboard">Fragment Dashboard</string>
     <string name="title_notifications">Fin</string>
-
+    <string name="text_notifications">Fragment Notifications</string>
 
 
 </resources>
