@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Login FireBase</string>
-    <string name="email_id">email id</string>
-    <string name="password">password</string>
-    <string name="login">Login</string>
-    <string name="failed">Authentication failed</string>
-    <string name="image">image</string>
-    <string name="create_a_new_account">Create a new Account!</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notificaciones</string>
+    <string name="app_name">Prototipo Agricultor</string>
+    <string name="email_id">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Inicio de Sesión</string>
+    <string name="failed">Falló Autentificación</string>
+    <string name="image">Imagen</string>
+    <string name="create_a_new_account">Crea una nueva cuenta!</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Medio</string>
+    <string name="title_notifications">Fin</string>
 
 
 
