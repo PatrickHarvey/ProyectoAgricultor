@@ -6,6 +6,8 @@
     <string name="failed">Falló Autentificación</string>
     <string name="image">Imagen</string>
     <string name="create_a_new_account">Crea una nueva cuenta!</string>
+    <string name="LogOut">Cerrar Sesión</string>
+    <string name="login_exito">Sesión iniciada</string>
     <string name="title_home">Inicio</string>
     <string name="title_dashboard">Medio</string>
     <string name="title_notifications">Fin</string>
